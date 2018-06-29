@@ -1,83 +1,11 @@
 [
   {
-    "HUC": 14010001,
-    "Name": "Colorado Headwaters"
+    "HUC": 14080104,
+    "Name": "Animas"
   },
   {
-    "HUC": 14010002,
-    "Name": "Blue"
-  },
-  {
-    "HUC": 14010003,
-    "Name": "Eagle"
-  },
-  {
-    "HUC": 14010004,
-    "Name": "Roaring Fork"
-  },
-  {
-    "HUC": 14010005,
-    "Name": "Colorado Headwaters-Plateau"
-  },
-  {
-    "HUC": 14010006,
-    "Name": "Parachute-Roan"
-  },
-  {
-    "HUC": 14020001,
-    "Name": "East-Taylor"
-  },
-  {
-    "HUC": 14020002,
-    "Name": "Upper Gunnison"
-  },
-  {
-    "HUC": 14020003,
-    "Name": "Tomichi"
-  },
-  {
-    "HUC": 14020004,
-    "Name": "North Fork Gunnison"
-  },
-  {
-    "HUC": 14020005,
-    "Name": "Lower Gunnison"
-  },
-  {
-    "HUC": 14020006,
-    "Name": "Uncompahgre"
-  },
-  {
-    "HUC": 14030001,
-    "Name": "Westwater Canyon"
-  },
-  {
-    "HUC": 14030002,
-    "Name": "Upper Dolores"
-  },
-  {
-    "HUC": 14030003,
-    "Name": "San Miguel"
-  },
-  {
-    "HUC": 14030004,
-    "Name": "Lower Dolores"
-  },
-  {
-    "HUC": 14030005,
-    "Name": "Upper Colorado-Kane Springs"
-  },
-  {
-    "HUC": 14040101,
-    "Name": "Upper Green"
-  },
-  {
-    "HUC": 14040102,
-    "Name": "New Fork"
-  },
-  {
-    "HUC": 14040103,
-    "Name": "Upper Green-Slate"
+    "HUC": 14060002,
+    "Name": "Ashley-Brush"
   },
   {
     "HUC": 14040104,
@@ -88,148 +16,116 @@
     "Name": "Bitter"
   },
   {
-    "HUC": 14040106,
-    "Name": "Upper Green-Flaming Gorge Reservoir"
-  },
-  {
     "HUC": 14040107,
     "Name": "Blacks Fork"
-  },
-  {
-    "HUC": 14040108,
-    "Name": "Muddy"
-  },
-  {
-    "HUC": 14040109,
-    "Name": "Vermilion"
-  },
-  {
-    "HUC": 14040200,
-    "Name": "Great Divide Closed Basin"
-  },
-  {
-    "HUC": 14050001,
-    "Name": "Upper Yampa"
-  },
-  {
-    "HUC": 14050002,
-    "Name": "Lower Yampa"
-  },
-  {
-    "HUC": 14050003,
-    "Name": "Little Snake"
-  },
-  {
-    "HUC": 14050004,
-    "Name": "Muddy"
-  },
-  {
-    "HUC": 14050005,
-    "Name": "Upper White"
-  },
-  {
-    "HUC": 14050006,
-    "Name": "Piceance-Yellow"
-  },
-  {
-    "HUC": 14050007,
-    "Name": "Lower White"
-  },
-  {
-    "HUC": 14060001,
-    "Name": "Lower Green-Diamond"
-  },
-  {
-    "HUC": 14060002,
-    "Name": "Ashley-Brush"
-  },
-  {
-    "HUC": 14060003,
-    "Name": "Duchesne"
-  },
-  {
-    "HUC": 14060004,
-    "Name": "Strawberry"
-  },
-  {
-    "HUC": 14060005,
-    "Name": "Lower Green-Desolation Canyon"
-  },
-  {
-    "HUC": 14060006,
-    "Name": "Willow"
-  },
-  {
-    "HUC": 14060007,
-    "Name": "Price"
-  },
-  {
-    "HUC": 14060008,
-    "Name": "Lower Green"
-  },
-  {
-    "HUC": 14060009,
-    "Name": "San Rafael"
-  },
-  {
-    "HUC": 14070001,
-    "Name": "Upper Lake Powell"
-  },
-  {
-    "HUC": 14070002,
-    "Name": "Muddy"
-  },
-  {
-    "HUC": 14070003,
-    "Name": "Fremont"
-  },
-  {
-    "HUC": 14070004,
-    "Name": "Dirty Devil"
-  },
-  {
-    "HUC": 14070005,
-    "Name": "Escalante"
-  },
-  {
-    "HUC": 14070006,
-    "Name": "Lower Lake Powell"
-  },
-  {
-    "HUC": 14070007,
-    "Name": "Paria"
-  },
-  {
-    "HUC": 14080101,
-    "Name": "Upper San Juan"
-  },
-  {
-    "HUC": 14080102,
-    "Name": "Piedra"
   },
   {
     "HUC": 14080103,
     "Name": "Blanco Canyon"
   },
   {
-    "HUC": 14080104,
-    "Name": "Animas"
-  },
-  {
-    "HUC": 14080105,
-    "Name": "Middle San Juan"
+    "HUC": 14010002,
+    "Name": "Blue"
   },
   {
     "HUC": 14080106,
     "Name": "Chaco"
   },
   {
-    "HUC": 14080107,
-    "Name": "Mancos"
+    "HUC": 14080204,
+    "Name": "Chinle"
   },
   {
-    "HUC": 14080201,
-    "Name": "Lower San Juan-Four Corners"
+    "HUC": 14010001,
+    "Name": "Colorado Headwaters"
+  },
+  {
+    "HUC": 14010005,
+    "Name": "Colorado Headwaters - Plateau"
+  },
+  {
+    "HUC": 14030005,
+    "Name": "Colorado - Upper, Kane Springs"
+  },
+  {
+    "HUC": 14070004,
+    "Name": "Dirty Devil"
+  },
+  {
+    "HUC": 14030004,
+    "Name": "Dolores - Lower"
+  },
+  {
+    "HUC": 14030002,
+    "Name": "Dolores - Upper"
+  },
+  {
+    "HUC": 14060003,
+    "Name": "Duchesne"
+  },
+  {
+    "HUC": 14010003,
+    "Name": "Eagle"
+  },
+  {
+    "HUC": 14020001,
+    "Name": "East-Taylor"
+  },
+  {
+    "HUC": 14070005,
+    "Name": "Escalante"
+  },
+  {
+    "HUC": 14070003,
+    "Name": "Fremont"
+  },
+  {
+    "HUC": 14040200,
+    "Name": "Great Divide Closed Basin"
+  },
+  {
+    "HUC": 14060008,
+    "Name": "Green - Lower"
+  },
+  {
+    "HUC": 14060005,
+    "Name": "Green - Lower, Desolation Canyon"
+  },
+  {
+    "HUC": 14040101,
+    "Name": "Green - Upper"
+  },
+  {
+    "HUC": 14040106,
+    "Name": "Green - Upper, Flaming Gorge Reservoir"
+  },
+  {
+    "HUC": 14060001,
+    "Name": "Green-Lower, Diamond"
+  },
+  {
+    "HUC": 14020005,
+    "Name": "Gunnison - Lower"
+  },
+  {
+    "HUC": 14020002,
+    "Name": "Gunnison - Upper"
+  },
+  {
+    "HUC": 14070006,
+    "Name": "Lake Powell - Lower"
+  },
+  {
+    "HUC": 14070001,
+    "Name": "Lake Powell - Upper"
+  },
+  {
+    "HUC": 14050003,
+    "Name": "Little Snake"
+  },
+  {
+    "HUC": 14080107,
+    "Name": "Mancos"
   },
   {
     "HUC": 14080202,
@@ -240,11 +136,115 @@
     "Name": "Montezuma"
   },
   {
-    "HUC": 14080204,
-    "Name": "Chinle"
+    "HUC": 14040108,
+    "Name": "Muddy"
+  },
+  {
+    "HUC": 14050004,
+    "Name": "Muddy"
+  },
+  {
+    "HUC": 14070002,
+    "Name": "Muddy"
+  },
+  {
+    "HUC": 14040102,
+    "Name": "New Fork"
+  },
+  {
+    "HUC": 14020004,
+    "Name": "North Fork Gunnison"
+  },
+  {
+    "HUC": 14010006,
+    "Name": "Parachute-Roan"
+  },
+  {
+    "HUC": 14070007,
+    "Name": "Paria"
+  },
+  {
+    "HUC": 14050006,
+    "Name": "Piceance-Yellow"
+  },
+  {
+    "HUC": 14080102,
+    "Name": "Piedra"
+  },
+  {
+    "HUC": 14060007,
+    "Name": "Price"
+  },
+  {
+    "HUC": 14010004,
+    "Name": "Roaring Fork"
   },
   {
     "HUC": 14080205,
-    "Name": "Lower San Juan"
+    "Name": "San Juan - Lower"
+  },
+  {
+    "HUC": 14080105,
+    "Name": "San Juan - Middle"
+  },
+  {
+    "HUC": 14080101,
+    "Name": "San Juan - Upper"
+  },
+  {
+    "HUC": 14080201,
+    "Name": "San Juan - Lower Four Corners"
+  },
+  {
+    "HUC": 14030003,
+    "Name": "San Miguel"
+  },
+  {
+    "HUC": 14060009,
+    "Name": "San Rafael"
+  },
+  {
+    "HUC": 14060004,
+    "Name": "Strawberry"
+  },
+  {
+    "HUC": 14020003,
+    "Name": "Tomichi"
+  },
+  {
+    "HUC": 14020006,
+    "Name": "Uncompahgre"
+  },
+  {
+    "HUC": 14040103,
+    "Name": "Upper Green - Upper, Slate"
+  },
+  {
+    "HUC": 14040109,
+    "Name": "Vermilion"
+  },
+  {
+    "HUC": 14030001,
+    "Name": "Westwater Canyon"
+  },
+  {
+    "HUC": 14050007,
+    "Name": "White - Lower"
+  },
+  {
+    "HUC": 14050005,
+    "Name": "White - Upper"
+  },
+  {
+    "HUC": 14060006,
+    "Name": "Willow"
+  },
+  {
+    "HUC": 14050002,
+    "Name": "Yampa - Lower"
+  },
+  {
+    "HUC": 14050001,
+    "Name": "Yampa - Upper"
   }
 ]

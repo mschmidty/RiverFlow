@@ -51,13 +51,6 @@ footer {
   color:#333;
   border-bottom:1.5px solid #3377FF;
 }
-.raft-icon{
-  position:fixed;
-  width:100px;
-  height:auto;
-  bottom:58px;
-  left:20px;
-}
 .created-by {
   color:#efefef;
   position:fixed;
