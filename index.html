@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Upper Dolores River Current Flow Rates</title>
+
+	<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+	<script src="libraries/p5.js"></script>
+	<script src="libraries/p5.dom.js"></script>
+	<script src="sketch.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<style>
+		body {
+			margin:0;
+			padding:0;
+			overflow: hidden;
+		}
+		canvas {
+			margin:auto;
+		}
+	</style>
+</head>
+<body>
+	<header class="primary-header">
+		<h1>Upper Dolores River</h1>
+		<p>Current Flow Rates</p>
+		<section>
+			<select name="hucCode" id="hucCode"></select>
+		</section>
+	</header>
+	<main>
+		<table>
+			<thead>
+				<tr>
+					<th>River</th>
+					<th>CFS</th>
+					<th>Location</th>
+				</tr>
+			</thead>
+			<tbody>
+
+			</tbody>
+		</table>
+	</main>
+
+	<footer class="padding-bottom">
+		<p class="source">Source: <a href="https://waterservices.usgs.gov/rest/IV-Test-Tool.html">USGS Instantaneous Values REST Web Service URL Genneration Tool</a></p>
+	</footer>
+	<footer class="created-by">
+		<p>Created by: <a href="http://schmidtyworks.com">Schmidtyworks</a></p>
+	</footer>
+
+</body>
+</html>
